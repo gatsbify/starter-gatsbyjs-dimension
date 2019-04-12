@@ -1,19 +1,68 @@
-# gatsby-starter-dimension
+# Gatsby Starter - Dimension Design
 
-**This is a starter for Gatsby.js V2.**
+> A Quick Way to bootstrap your next Gatsby app 
 
-**The older V1 version of this starter can be found on the v1 branch:**
+![ss](https://static.appseed.us/misc/thumb-gatsby-dimension.png)
 
-Gatsby.js V2 starter based on the Dimension site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
+## Demo 💯
 
-## Preview
+- [Demo Link](https://starter-gatsbyjs-dimension.appseed.us/)
 
-https://gatsby-dimension.surge.sh/
+## Features 🚀
 
-## Installation
+This is a simplified Gatsby app based on Dimension design ( by HTMP5 UP)
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-<br/>
-`gatsby new gatsby-starter-dimension https://github.com/codebushi/gatsby-starter-dimension`
+## How to use it? 👨‍💻
 
-Run `gatsby develop` in the terminal to start the dev site.
+You need npm and Gatsby CLI installed on your development machine.
+
+### Clone the repository/Installation
+
+If you have Git installed on your system you can run the following command:
+
+`git clone https://github.com/rosoftdeveloper/starter-gatsbyjs-dimension`
+
+Otherwise you can directly download it clicking on download button on this repository.
+
+### Running in development mode
+
+Go inside `starter-gatsbyjs-auth/` directory and run the following command:
+
+- `npm install` to install modules or `yarn` (recommended)
+- `gatsby develop` to start the development (live browser update)
+- `gatsby build` generate the deplyment in `public` directory
+- `npm run deploy` deploy your app via FTP `EDIT deploy.js (config section)`
+
+### Open the source code and start editing!
+
+The site is now running at
+[http://localhost:8000](http://localhost:8000).
+
+Open `fullstack-gatsbyjs/` directory in your code editor of choice and edit it. 
+Save your changes and the changes will be reflected in the browser without manual refresh!
+
+### Configure FTP deployment 
+
+Edit `deploy.js` file:
+
+```js
+var config = {
+    user: "YOUR_USER_HERE",                   // NOTE that this was username in 1.x 
+    password: "YOUR_PASS_HERE",           // optional, prompted if none given
+    host: "YOUR_FTP_SERVER_HERE",
+    port: 21,
+    localRoot: __dirname + '/public',
+    remoteRoot: '/',
+    include: ['*', '**/*'],      // this would upload everything except dot files
+    //include: ['*.php', 'dist/*'],
+    exclude: ['dist/**/*.map'],     // e.g. exclude sourcemaps - ** exclude: [] if nothing to exclude **
+    deleteRemote: false,              // delete ALL existing files at destination before uploading, if true
+    forcePasv: false                 // Passive mode is forced (EPSV command is not sent)
+}
+```
+
+## Support
+Open a new issuehere. Live support on [Discord](https://discord.gg/fZC6hup) and [Facebook](https://www.facebook.com/groups/fullstack.apps.generator). 
+
+---
+Made with ♥ by [AppSeed.us]("https://appseed.us")
