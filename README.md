@@ -68,7 +68,7 @@ var config = {
 - Gatsby Jodie (Html5 Up): [Demo](https://starter-gatsbyjs-jodie.appseed.us/), [Sources](https://github.com/rosoftdeveloper/starter-gatsbyjs-jodie)
 
 ## Support
-Open a new issuehere. Live support on [Discord](https://discord.gg/fZC6hup) and [Facebook](https://www.facebook.com/groups/fullstack.apps.generator). 
+Live support on [Discord](https://discord.gg/fZC6hup) and [Facebook](https://www.facebook.com/groups/fullstack.apps.generator). 
 
 ---
 Made with ♥ by [AppSeed.us]("https://appseed.us")
