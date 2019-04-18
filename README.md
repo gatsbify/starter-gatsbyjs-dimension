@@ -62,9 +62,9 @@ var config = {
 ```
 
 ## Need More staters?
-- Gatsby Material-Kit: [Demo](https://starter-gatsbyjs-material-kit.appseed.us/), [Sources](https://github.com/rosoftdeveloper/starter-gatsbyjs-material-kit)
+- Gatsby Material-Kit (Creative-Tim): [Demo](https://starter-gatsbyjs-material-kit.appseed.us/), [Sources](https://github.com/rosoftdeveloper/starter-gatsbyjs-material-kit)
 - Gatsby Emma (Html5 Up): [Demo](https://starter-gatsbyjs-emma.appseed.us/), [Sources](https://github.com/rosoftdeveloper/starter-gatsbyjs-emma)
-- Gatsby Starta (Html5 Up): [Demo](https://starter-gatsbyjs-starta.appseed.us/), [Sources](https://github.com/rosoftdeveloper/starter-gatsbyjs-starta)
+- Gatsby Starta (Html5 Up): [Demo](https://starter-gatsbyjs-strata.appseed.us/), [Sources](https://github.com/rosoftdeveloper/starter-gatsbyjs-strata)
 - Gatsby Jodie (Html5 Up): [Demo](https://starter-gatsbyjs-jodie.appseed.us/), [Sources](https://github.com/rosoftdeveloper/starter-gatsbyjs-jodie)
 
 ## Support
