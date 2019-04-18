@@ -1,6 +1,6 @@
 # Gatsby Starter - Dimension Design
 
-> A Quick Way to bootstrap your next Gatsby app. Provided by [AppSeed.us](https://appseed.us) 
+> A Quick Way to bootstrap your next Gatsby app. Provided by [AppSeed.us](https://appseed.us?ref=github) 
 
 ![ss](https://static.appseed.us/misc/thumb-gatsby-dimension.png)
 
