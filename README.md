@@ -10,7 +10,7 @@
 
 ## Features 🚀
 
-This is a simplified Gatsby app based on Dimension design ( by HTML5 UP )
+This is a simplified Gatsby app based on Dimension design (by HTML5 UP)
 
 ## How to use it? 👨‍💻
 
@@ -61,10 +61,10 @@ var config = {
 }
 ```
 
-## Need More staters?
+## Need More starters?
 - Gatsby Material-Kit (Creative-Tim): [Demo](https://starter-gatsbyjs-material-kit.appseed.us/), [Sources](https://github.com/rosoftdeveloper/starter-gatsbyjs-material-kit)
 - Gatsby Emma (Html5 Up): [Demo](https://starter-gatsbyjs-emma.appseed.us/), [Sources](https://github.com/rosoftdeveloper/starter-gatsbyjs-emma)
-- Gatsby Starta (Html5 Up): [Demo](https://starter-gatsbyjs-strata.appseed.us/), [Sources](https://github.com/rosoftdeveloper/starter-gatsbyjs-strata)
+- Gatsby Strata (Html5 Up): [Demo](https://starter-gatsbyjs-strata.appseed.us/), [Sources](https://github.com/rosoftdeveloper/starter-gatsbyjs-strata)
 - Gatsby Jodie (Html5 Up): [Demo](https://starter-gatsbyjs-jodie.appseed.us/), [Sources](https://github.com/rosoftdeveloper/starter-gatsbyjs-jodie)
 
 ## Support
