@@ -16,11 +16,12 @@ const Header = (props) => (
                 <a target="_blank" href="https://developers.google.com/speed/pagespeed/insights/?url=https://starter-gatsbyjs-dimension.appseed.us&tab=mobile">Fast as hell</a>, {' '}
                 <a target="_blank" href="https://github.com/rosoftdeveloper/starter-gatsbyjs-dimension/blob/master/deploy.js">FTP Deploy Script</a>
                 <br /><br />
-                Need more #cool Gatsby starters?
+                Need more starters?
                 <br />
                 <a target="_blank" href="https://starter-gatsbyjs-emma.appseed.us/">Emma</a>,{' '} 
                 <a target="_blank" href="https://starter-gatsbyjs-jodie.appseed.us/">Jodie</a>,{' '}  
-                <a target="_blank" href="https://starter-gatsbyjs-strata.appseed.us/">Strata</a>.
+                <a target="_blank" href="https://starter-gatsbyjs-strata.appseed.us/">Strata</a>,{' '} 
+                <a target="_blank" href="https://starter-gatsbyjs-material-kit.appseed.us/">Material-Kit</a>. 
 
                 </p>
             </div>
