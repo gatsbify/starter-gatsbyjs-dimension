@@ -10,7 +10,7 @@
 
 ## Features 🚀
 
-This is a simplified Gatsby app based on Dimension design ( by HTMP5 UP)
+This is a simplified Gatsby app based on Dimension design ( by HTML5 UP )
 
 ## How to use it? 👨‍💻
 
@@ -26,7 +26,7 @@ Otherwise you can directly download it clicking on download button on this repos
 
 ### Running in development mode
 
-Go inside `starter-gatsbyjs-auth/` directory and run the following command:
+Go inside `starter-gatsbyjs-dimension/` directory and run the following command:
 
 - `npm install` to install modules or `yarn` (recommended)
 - `gatsby develop` to start the development (live browser update)
@@ -38,7 +38,7 @@ Go inside `starter-gatsbyjs-auth/` directory and run the following command:
 The site is now running at
 [http://localhost:8000](http://localhost:8000).
 
-Open `fullstack-gatsbyjs/` directory in your code editor of choice and edit it. 
+Open `starter-gatsbyjs-dimension/` directory in your code editor of choice and edit it. 
 Save your changes and the changes will be reflected in the browser without manual refresh!
 
 ### Configure FTP deployment 
